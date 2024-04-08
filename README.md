@@ -17,10 +17,17 @@
 
 <br>
 
-- Soy un programador Fontend
+¡Hola! Soy un apasionado **Ingeniero en Sistemas de 26 años**, especializado en el desarrollo web Frontend. 
+
+Me fascina mantenerme al día con las **últimas tecnologías** y disfruto investigando sobre las innovaciones que emergen cada día en el mundo digital.
+
+Mi curiosidad técnica y mi dedicación a la excelencia me impulsan a crear experiencias web que no solo sean funcionales, sino también estéticamente agradables y accesibles para todos los usuarios.
+
+Siempre estoy buscando aprender y crecer profesionalmente, y me emociona ser parte de una comunidad que está moldeando el futuro de la web. 💻🚀
 
 
-<br><br>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
