@@ -59,15 +59,18 @@ Siempre estoy buscando aprender y crecer profesionalmente, y me emociona ser par
 
 ## <b> Contactame </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
-
-<a href="https://www.linkedin.com/in/gianni-francesco-rugerio-lezama-996a21234/">
+<li align='left'>
+ Linkedin:
+  <br>
+  <br>
+	  
+ <a href="https://www.linkedin.com/in/gianni-francesco-rugerio-lezama-996a21234/">
 	    <img src="https://skillicons.dev/icons?i=linkedin" />					
  </a>
 
  
 
-</div>
+</li>
 
 
 <br>
