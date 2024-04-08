@@ -3,7 +3,7 @@
 <!--  -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6A1989&size=25&center=true&vCenter=true&width=600&height=100&lines=Front+End+Developer...+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%80%8B" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6A1989&size=25&center=true&vCenter=true&width=600&height=100&lines=Front+End+Developer...+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%80%8B" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -31,20 +31,20 @@
 
 - **Languages**:
 
-    [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python)](#)
 
 <br>   
     
 - **Front-End Development**:
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](#)
 
 <br>
 
 - **Softwares and Tools**:
   <br>
   <br>
-	  <a href="https://skillicons.dev">
+	  <a href="#">
 	    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 	  </a>
 <br>
